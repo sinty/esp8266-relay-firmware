@@ -8,7 +8,7 @@ module.HOST = "MQTT_address_or_ip"
 module.PORT = 1883  
 module.ID = node.chipid()
 
--- rele pins
+-- relay pins
 module.relay1 = 6
 module.relay2 = 7
 
